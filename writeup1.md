@@ -14,5 +14,5 @@ dirb 192.168.1.35
 #access forum 
 https://192.168.1.35/forum
 
-https://192.168.1.35/forum/phpmyadmin forbidden
+http://192.168.1.35/forum/phpmyadmin forbidden
 https://192.168.1.35/server-stats forbidden
