@@ -8,4 +8,8 @@ nmap -v -sn 192.168.1.0/24  | grep "is up" -B 1
 #scan for open ports 
 nmap 192.168.1.35
 
+#run dirb to see available urls
+dirb 192.168.1.35
 
+#access forum 
+https://192.168.1.35/forum
