@@ -30,5 +30,5 @@ now that we have mail/pwd we use it to connect on squirrelmail
 
 we find a mail giving us access to the database using root/Fg-'kKXBj87E:aJ$
 
-laurie's email is stored as 0171e7dbcbf4bd21a732fa859ea98a2950b4f8aa1e5365dc90
+laurie's email is stored as 0171e7dbcbf4bd21a732fa859ea98a2950b4f8aa1e5365dc90, we decide to change admin's password to this and connect on the forum as the admin.
 
